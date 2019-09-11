@@ -1,0 +1,11 @@
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\bin\Debug\SysDois.exe.config
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\bin\Debug\SysDois.exe
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\bin\Debug\SysDois.pdb
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\obj\Debug\SysDois.csprojResolveAssemblyReference.cache
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\obj\Debug\SysDois.Form.resources
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\obj\Debug\SysDois.Properties.Resources.resources
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\obj\Debug\SysDois.csproj.GenerateResource.Cache
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\obj\Debug\SysDois.exe
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\obj\Debug\SysDois.pdb
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\obj\Debug\SysDois.Links.resources
+c:\users\vinicius.crocha1\documents\visual studio 2015\Projects\SysDois\SysDois\obj\Debug\SysDois.Sobre.resources
